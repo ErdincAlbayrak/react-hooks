@@ -9,6 +9,7 @@ import * as React from 'react'
 import {PokemonForm, fetchPokemon, PokemonInfoFallback, PokemonDataView} from '../pokemon'
 
 function PokemonInfo({pokemonName}) {
+  //commit denemesi
   // 🐨 Have state for the pokemon (null)
   //const [pokemon, setPokemon] = React.useState(null)
   //const [error, setError] = React.useState(false)
